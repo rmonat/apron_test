@@ -1,0 +1,4 @@
+(executable
+ (public_name apron_test)
+ (name main)
+ (libraries apron apron.ppl apron.octD apron.polkaMPQ elina))
